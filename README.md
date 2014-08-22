@@ -7,6 +7,9 @@ effort has been made to make the library easy to use from C#. See FsHsa.Okra.CSh
 
 The codebase use the Apache 2.0 license.
 
+More information about FsHlvm project are be available at:
+http://www.kp-tech.hu/en/products/fshsa-opensource
+
 ## Status
 
 The `master` branch is for the latest version of FsHsa.
